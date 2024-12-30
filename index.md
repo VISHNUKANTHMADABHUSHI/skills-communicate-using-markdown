@@ -4,3 +4,8 @@
 
 ###### This is an `<h6>` header, which is the smallest
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+public static void main(String args[]){
+Scanner sc = new Scanner(System.in);
+int n = sc.nextInt();
+
